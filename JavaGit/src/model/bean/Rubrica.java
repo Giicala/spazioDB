@@ -5,6 +5,7 @@ public class Rubrica {
 	private Contatto[] listaContatti;
 	
 	
+	
 	// costruttore - i
 	public Rubrica (int dimensione){
 		if(dimensione>100 || dimensione<0){

@@ -7,6 +7,7 @@ public class TestRubrica {
 
 	public static void main(String[] args) {
 
+		
 			int scelta=0;
 
 			do {

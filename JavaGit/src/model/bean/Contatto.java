@@ -7,6 +7,7 @@ public class Contatto {
 	private String cell;
 	private String numeroCasa;
 	
+	
 	// costruttore di default
 	public Contatto(){
 		

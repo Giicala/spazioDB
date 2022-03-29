@@ -8,6 +8,7 @@ import oop.dao.rubrica.model.dao.RubricaDAO;
 
 public class RubricaService {
 
+	
 	// NUOVO CONTATTO
 	public static void inserisciContatto() {
 		
