@@ -3,8 +3,7 @@ package oop.dao.rubrica.model.bean;
 public class Rubrica {
 
 	private Contatto[] listaContatti;
-	
-	
+		
 	
 	// costruttore - i
 	public Rubrica (int dimensione){
