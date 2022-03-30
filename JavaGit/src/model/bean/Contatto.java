@@ -3,6 +3,7 @@ package oop.dao.rubrica.model.bean;
 public class Contatto {
 
 	
+	
 	private String nome;
 	private String cognome;
 	private String cell;
